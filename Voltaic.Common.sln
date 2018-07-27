@@ -10,7 +10,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{90E3631E-FE7C-4546-A54E-6E0750E18851}"
 	ProjectSection(SolutionItems) = preProject
 		appveyor.yml = appveyor.yml
-		LICENSE = LICENSE
 		nuget.config = nuget.config
 		src\Voltaic.Common.targets = src\Voltaic.Common.targets
 	EndProjectSection
