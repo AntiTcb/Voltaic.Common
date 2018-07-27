@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <Import Project="../Voltaic.Common.targets" />
   <PropertyGroup>
     <RootNamespace>Voltaic</RootNamespace>
@@ -6,6 +6,6 @@
     <PackageTags>voltaic;rogueexception;logging</PackageTags>
     <Description>A simple logger</Description>
     <TargetFrameworks>netstandard2.0</TargetFrameworks>
-    <VersionPrefix>0.2.0</VersionPrefix>
+    <VersionPrefix>0.2.1</VersionPrefix>
   </PropertyGroup>
 </Project>
